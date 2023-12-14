@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor_CloudPrint-HT-23", "Blazor_CloudPrint-HT-23\Blazor_CloudPrint-HT-23.csproj", "{1C9FAEAE-ACCC-4048-B0A8-DFDC0A38DD97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_CloudPrint-HT-23", "API_CloudPrint-HT-23\API_CloudPrint-HT-23.csproj", "{5D5645FF-551B-45E9-A602-20DFD73110E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C9FAEAE-ACCC-4048-B0A8-DFDC0A38DD97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9FAEAE-ACCC-4048-B0A8-DFDC0A38DD97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9FAEAE-ACCC-4048-B0A8-DFDC0A38DD97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9FAEAE-ACCC-4048-B0A8-DFDC0A38DD97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D5645FF-551B-45E9-A602-20DFD73110E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5645FF-551B-45E9-A602-20DFD73110E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5645FF-551B-45E9-A602-20DFD73110E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5645FF-551B-45E9-A602-20DFD73110E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D742C3EB-D87D-4423-BA71-2B4EB707D7D3}
+	EndGlobalSection
+EndGlobal
