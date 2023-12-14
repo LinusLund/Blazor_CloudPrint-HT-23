@@ -5,7 +5,7 @@ namespace API_CloudPrint_HT_23.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CloudPrinting : ControllerBase
+    public class CloudPrintingController : ControllerBase
     {
     }
 }
